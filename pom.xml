@@ -14,7 +14,7 @@
 
 		<aws.sdk.version>2.16.25</aws.sdk.version>
 		<web3j.version>4.8.4</web3j.version>
-		<okio.version>2.8.0</okio.version>
+		<okio.version>3.0.0</okio.version>
 
 	</properties>
 
